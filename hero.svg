@@ -1,0 +1,17 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Luna Xie — AI Product &amp; Design</title>
+  <desc id="desc">A warm editorial banner with a pink sun, blue square and the words LUNA / PRODUCT NOTES.</desc>
+  <rect width="1200" height="260" rx="18" fill="#F7F2EC"/>
+  <circle cx="1045" cy="-8" r="188" fill="#F5A7B8"/>
+  <circle cx="1045" cy="-8" r="145" stroke="#1E3A5F" stroke-width="2" stroke-dasharray="3 8" opacity="0.55"/>
+  <rect x="852" y="126" width="86" height="86" rx="10" transform="rotate(11 852 126)" fill="#234A74"/>
+  <path d="M776 42C814 75 827 112 817 152C809 185 785 210 751 226" stroke="#E97883" stroke-width="3" stroke-linecap="round"/>
+  <path d="M785 42C824 75 837 112 827 152C819 185 795 210 761 226" stroke="#E97883" stroke-width="1" stroke-linecap="round" opacity="0.45"/>
+  <text x="62" y="62" fill="#234A74" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">LUNA XIE / AI PRODUCT &amp; DESIGN</text>
+  <text x="60" y="144" fill="#172638" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" letter-spacing="-2">PRODUCT</text>
+  <text x="60" y="211" fill="#E97883" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" font-style="italic" letter-spacing="-2">notes.</text>
+  <text x="604" y="58" fill="#172638" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">OBSERVE · STRUCTURE · SHIP</text>
+  <text x="1030" y="222" fill="#172638" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">2026</text>
+  <path d="M60 232H460" stroke="#172638" stroke-width="1" opacity="0.45"/>
+  <circle cx="472" cy="232" r="3" fill="#E97883"/>
+</svg>
