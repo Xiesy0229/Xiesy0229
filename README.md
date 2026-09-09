@@ -89,7 +89,7 @@
 
 参与滴滴 HR-RAG 智能助手设计，梳理政策入库、语义检索、混合检索、Rerank、答案生成与来源引用链路；参与父子分块、Prompt 约束、测评集，以及“资料不足时拒答 / 高风险问题转人工”的边界设计。
 
-→ [查看作品集中的产品拆解](https://luna-xie-portfolio.ccxxii001212.chatgpt.site/#hr-rag)
+→ [打开 HR-RAG 项目主页](https://xiesy0229.github.io/hr-rag-assistant/)&nbsp;&nbsp;·&nbsp;&nbsp;[阅读 RAG 学习手册](https://xiesy0229.github.io/hr-rag-assistant/docs/rag-learning-handbook.html)&nbsp;&nbsp;·&nbsp;&nbsp;[查看合规审核工作流](https://github.com/Xiesy0229/hr-rag-assistant/blob/main/docs/compliance-review-workflow.md)&nbsp;&nbsp;·&nbsp;&nbsp;[查看作品集中的产品拆解](https://luna-xie-portfolio.ccxxii001212.chatgpt.site/#hr-rag)
 
 ### 04｜把内容策略，变成可以迭代的工作流
 
