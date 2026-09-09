@@ -16,6 +16,8 @@
 &nbsp; · &nbsp;
 <a href="https://kv.ccxixi.top/">D-Design AI 生图工作台</a>
 &nbsp; · &nbsp;
+<a href="https://xiesy0229.github.io/triple-product-system/">Triple 三端系统</a>
+&nbsp; · &nbsp;
 <a href="https://github.com/Xiesy0229/prd-portfolio-public">PRD 作品集</a>
 &nbsp; · &nbsp;
 <a href="https://github.com/Xiesy0229/daily-fitness-illustration-workflow">AI 内容工作流</a>
@@ -61,10 +63,10 @@
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <a href="https://github.com/Xiesy0229/daily-fitness-illustration-workflow">
-        <img src="https://raw.githubusercontent.com/Xiesy0229/daily-fitness-illustration-workflow/master/examples/chest-basics/01-summary.png" alt="PowerClaw 健身内容生成卡片" width="360" />
+      <a href="https://github.com/Xiesy0229/daily-fitness-illustration-workflow/blob/main/case-studies/README.md">
+        <img src="https://raw.githubusercontent.com/Xiesy0229/daily-fitness-illustration-workflow/main/examples/content-strategy/cat-dumbbell.jpg" alt="PowerClaw 猫咪引流内容素材" width="300" />
       </a>
-      <p><strong>AI 内容工作流｜从动作知识到发布卡片</strong><br /><sub>把内容生产拆成可复用、可检查、可持续运行的链路。</sub></p>
+      <p><strong>内容策略实验｜猫咪引流</strong><br /><sub>用高记忆点的多模态内容，测试注意力、互动与转化边界。</sub></p>
     </td>
   </tr>
 </table>
@@ -93,13 +95,19 @@
 
 围绕海外健身 App 获客，整理 **356 项健身动作**，分析 **200+ 条 TikTok / YouTube 内容**，建立 3 类 AIGC 内容场景与日更生成工作流；测试期单条视频平均播放量 **5,000+**。
 
-→ [查看 AI 内容工作流](https://github.com/Xiesy0229/daily-fitness-illustration-workflow)
+→ [查看 AI 内容工作流](https://github.com/Xiesy0229/daily-fitness-illustration-workflow)&nbsp;&nbsp;·&nbsp;&nbsp;[打开完整复盘](https://github.com/Xiesy0229/daily-fitness-illustration-workflow/blob/main/case-studies/README.md)
 
 ### 05｜让每一次审核，都有清楚的下一步
 
 围绕供应商“资料提交—资质审核—通过 / 驳回—重新提交”链路，完成需求分析、状态流转、规则预审、人工复核、PRD、交互原型与验收标准设计，并围绕履约质量参与供应商信用策略设计。
 
 → [查看 PRD 与原型作品集](https://github.com/Xiesy0229/prd-portfolio-public)
+
+### 06｜让一次训练，串成一套服务
+
+**Triple 健身服务三端系统**：围绕会员小程序端、教练工作端和运营管理后台，梳理预约、签到核销、会员卡、训练成长、内容社区、商城交易与经营数据等模块，把一次训练服务拆成可协作的产品体系。
+
+→ [打开 Triple 项目主页](https://xiesy0229.github.io/triple-product-system/)&nbsp;&nbsp;·&nbsp;&nbsp;[查看代码与交互原型](https://github.com/Xiesy0229/triple-product-system)
 
 ## 我的工作方式
 
