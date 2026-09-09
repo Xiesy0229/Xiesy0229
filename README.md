@@ -42,35 +42,6 @@
 | **企业服务流程** | 怎么把审核、认证、报价等复杂业务变成清楚的状态、规则和下一步 |
 | **内容策略** | 怎么用用户洞察、内容结构和数据反馈，让一次灵感变成可持续迭代的内容方案 |
 
-## 作品截图 / 先看结果
-
-这些截图来自我的公开产品作品集和 AI 内容工作流，点击图片可以查看对应项目。
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Xiesy0229/prd-portfolio-public">
-        <img src="https://raw.githubusercontent.com/Xiesy0229/prd-portfolio-public/master/screenshots/01-%E6%A8%A1%E6%9D%BF%E9%80%89%E6%8B%A9.png" alt="运价解析平台模板选择页面" />
-      </a>
-      <p><strong>企业服务｜模板选择</strong><br /><sub>把复杂的合约解析需求，组织成清楚的业务入口。</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Xiesy0229/prd-portfolio-public">
-        <img src="https://raw.githubusercontent.com/Xiesy0229/prd-portfolio-public/master/screenshots/02-%E4%B8%8A%E4%BC%A0%E6%94%AF%E4%BB%98.png" alt="运价解析平台上传合约页面" />
-      </a>
-      <p><strong>流程设计｜上传与解析</strong><br /><sub>让用户知道当前在哪一步、接下来要做什么。</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <a href="https://github.com/Xiesy0229/daily-fitness-illustration-workflow/blob/main/case-studies/README.md">
-        <img src="https://raw.githubusercontent.com/Xiesy0229/daily-fitness-illustration-workflow/main/examples/content-strategy/cat-dumbbell.jpg" alt="PowerClaw 猫咪引流内容素材" width="300" />
-      </a>
-      <p><strong>内容策略实验｜猫咪引流</strong><br /><sub>用高记忆点的多模态内容，测试注意力、互动与转化边界。</sub></p>
-    </td>
-  </tr>
-</table>
-
 ## 代表项目 / 我做过什么
 
 ### 01｜让 AI 视频，从能生成到能制作
