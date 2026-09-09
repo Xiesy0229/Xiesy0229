@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <a href="https://luna-xie-portfolio.ccxxii001212.chatgpt.site/"><img src="./portfolio-button.svg" alt="打开我的个人作品集" width="360" /></a>
+  <a href="https://luna-xie-portfolio.ccxxii001212.chatgpt.site/">🌸🫧&nbsp;&nbsp;<img src="./portfolio-button.svg" alt="打开我的个人作品集" width="280" /></a>
 </p>
 
 ---
