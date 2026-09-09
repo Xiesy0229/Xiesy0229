@@ -2,16 +2,6 @@
 
 <img src="./hero.svg" alt="Luna Xie · AI 产品与设计" width="100%" />
 
-<br />
-
-<table width="100%" border="0">
-  <tr>
-    <td width="33%" align="center"><img src="./assets/luna-xie.jpg" alt="Luna Xie" width="100%" height="220" /></td>
-    <td width="33%" align="center"><img src="./assets/fitness-cards.png" alt="AI 健身内容工作流" width="100%" height="220" /></td>
-    <td width="33%" align="center"><img src="./assets/powerclaw-cat.jpg" alt="萌宠健身内容实验" width="100%" height="220" /></td>
-  </tr>
-</table>
-
 # 谢诗扬 · Luna Xie 👋
 
 ### AI 产品经理｜设计背景｜多模态 AI / 产品设计 / 内容策略
