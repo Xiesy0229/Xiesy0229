@@ -12,6 +12,8 @@
 &nbsp; · &nbsp;
 <a href="https://artioo.cn/">Artioo 多模态平台</a>
 &nbsp; · &nbsp;
+<a href="https://mp.weixin.qq.com/s/6WoXMmKvK2pIP0ELTINeWw">Artioo 视频展示</a>
+&nbsp; · &nbsp;
 <a href="https://kv.ccxixi.top/">D-Design AI 生图工作台</a>
 &nbsp; · &nbsp;
 <a href="https://github.com/Xiesy0229/prd-portfolio-public">PRD 作品集</a>
@@ -73,7 +75,7 @@
 
 参与 **Artioo 企业级多模态 AI 创意生产平台**的能力研究与产品评测，围绕人物、空间、视觉风格和专业运镜等任务，对比 Seedance、Kling、Runway、Veo 四款模型；设计 8 类任务、重复生成 3 次，累计复盘 **96 条视频**，建立 6 项评测指标，归纳 Badcase 并沉淀模型选择与工作流优化建议。
 
-→ [访问 Artioo](https://artioo.cn/)&nbsp;&nbsp;·&nbsp;&nbsp;[查看个人作品集](https://luna-xie-portfolio.ccxxii001212.chatgpt.site/#work)
+→ [访问 Artioo](https://artioo.cn/)&nbsp;&nbsp;·&nbsp;&nbsp;[观看视频展示](https://mp.weixin.qq.com/s/6WoXMmKvK2pIP0ELTINeWw)&nbsp;&nbsp;·&nbsp;&nbsp;[查看个人作品集](https://luna-xie-portfolio.ccxxii001212.chatgpt.site/#work)
 
 ### 02｜让 AI 生图，成为顺手的创作工具
 
