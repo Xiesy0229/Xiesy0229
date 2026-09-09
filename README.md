@@ -2,25 +2,29 @@
 
 <img src="./hero.svg" alt="Luna Xie · AI 产品与设计" width="100%" />
 
-# 谢诗扬 · Luna Xie
+<br />
 
-### AI 产品经理｜设计背景｜把复杂能力变成清楚的产品
+<table width="100%" border="0">
+  <tr>
+    <td width="33%" align="center"><img src="./assets/luna-xie.jpg" alt="Luna Xie" width="100%" height="220" /></td>
+    <td width="33%" align="center"><img src="./assets/fitness-cards.png" alt="AI 健身内容工作流" width="100%" height="220" /></td>
+    <td width="33%" align="center"><img src="./assets/powerclaw-cat.jpg" alt="萌宠健身内容实验" width="100%" height="220" /></td>
+  </tr>
+</table>
+
+# 谢诗扬 · Luna Xie 👋
+
+### AI 产品经理｜设计背景｜多模态 AI / 产品设计 / 内容策略
 
 我从设计出发，做多模态 AI 产品、用户体验与内容策略。
 
-<a href="https://luna-xie-portfolio.ccxxii001212.chatgpt.site/">个人作品集</a>
-&nbsp; · &nbsp;
+<a href="https://luna-xie-portfolio.ccxxii001212.chatgpt.site/">↗ 打开我的个人作品集</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://artioo.cn/">Artioo 多模态平台</a>
-&nbsp; · &nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://mp.weixin.qq.com/s/6WoXMmKvK2pIP0ELTINeWw">Artioo 视频展示</a>
-&nbsp; · &nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://kv.ccxixi.top/">D-Design AI 生图工作台</a>
-&nbsp; · &nbsp;
-<a href="https://xiesy0229.github.io/triple-product-system/">Triple 三端系统</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Xiesy0229/prd-portfolio-public">PRD 作品集</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Xiesy0229/daily-fitness-illustration-workflow">AI 内容工作流</a>
 
 </div>
 
@@ -29,20 +33,22 @@
 > **我的产品笔记：先把问题问清楚，再把复杂的事情变简单。**  
 > 我关注的不是“模型能生成什么”，而是“人能不能理解、使用，并且相信它”。
 
-## 你好，我是 Luna
+## About Me
 
-我是一名有设计背景的 AI 产品经理，目前在华中科技大学攻读设计学硕士。设计训练让我关注人的感受、视觉和使用场景；产品实践让我进一步把这种感知落实到需求拆解、业务流程、交互原型、生成约束和评测标准里。
+你好，我是 Luna，一名有设计背景的 AI 产品经理，目前在华中科技大学攻读设计学硕士。
 
-最近的实践主要集中在四件事：
+我喜欢把模型能力、用户需求和业务流程放在同一张图里思考：先拆解问题，再设计流程、规则和评测方式，最后把想法落成可以被使用、被讨论、被迭代的产品。
 
-| 方向 | 我在解决什么问题 |
+我现在主要关注：
+
+| 方向 | 我在做什么 |
 | --- | --- |
-| **多模态 AI** | 怎么把图像、视频与文本能力组织起来，让复杂的创作意图更稳定地被理解和执行 |
-| **知识库问答** | 怎么让 AI 的答案有依据，资料不足时知道拒答，高风险问题知道转人工 |
-| **企业服务流程** | 怎么把审核、认证、报价等复杂业务变成清楚的状态、规则和下一步 |
-| **内容策略** | 怎么用用户洞察、内容结构和数据反馈，让一次灵感变成可持续迭代的内容方案 |
+| **多模态 AI** | 组织图像、视频与文本能力，让创作意图更稳定地被理解和执行 |
+| **AI 产品设计** | 把模型能力放进真实工作流，设计入口、状态、约束与反馈 |
+| **知识库问答** | 让 AI 的答案有依据，并把引用、拒答和转人工设计清楚 |
+| **内容策略** | 用内容结构、用户洞察和数据观察，把一次灵感变成可复用的方法 |
 
-## 代表项目 / 我做过什么
+## Selected Projects / 代表项目
 
 ### 01｜让 AI 视频，从能生成到能制作
 
@@ -60,15 +66,23 @@
 
 参与滴滴 HR-RAG 智能助手设计，梳理政策入库、语义检索、混合检索、Rerank、答案生成与来源引用链路；参与父子分块、Prompt 约束、测评集，以及“资料不足时拒答 / 高风险问题转人工”的边界设计。
 
-→ [打开 HR-RAG 项目主页](https://xiesy0229.github.io/hr-rag-assistant/)&nbsp;&nbsp;·&nbsp;&nbsp;[阅读 RAG 学习手册](https://xiesy0229.github.io/hr-rag-assistant/docs/rag-learning-handbook.html)&nbsp;&nbsp;·&nbsp;&nbsp;[查看合规审核工作流](https://github.com/Xiesy0229/hr-rag-assistant/blob/main/docs/compliance-review-workflow.md)&nbsp;&nbsp;·&nbsp;&nbsp;[查看作品集中的产品拆解](https://luna-xie-portfolio.ccxxii001212.chatgpt.site/#hr-rag)
+→ [打开 HR-RAG 项目主页](https://xiesy0229.github.io/hr-rag-assistant/)&nbsp;&nbsp;·&nbsp;&nbsp;[阅读 RAG 学习手册](https://xiesy0229.github.io/hr-rag-assistant/docs/rag-learning-handbook.html)&nbsp;&nbsp;·&nbsp;&nbsp;[查看合规审核工作流](https://github.com/Xiesy0229/hr-rag-assistant/blob/main/docs/compliance-review-workflow.md)
 
 ### 04｜把内容策略，变成可以迭代的工作流
 
-围绕海外健身 App 获客，整理 **356 项健身动作**，分析 **200+ 条 TikTok / YouTube 内容**，建立 3 类 AIGC 内容场景与日更生成工作流；沉淀内容分类、平台观察、A/B Test 与复盘方法。
+围绕海外健身 App，整理 **356 项健身动作**，分析 **200+ 条 TikTok / YouTube 内容**，建立 3 类 AIGC 内容场景与日更生成工作流；沉淀内容分类、平台观察、A/B Test 与复盘方法。
 
 阶段成果：形成动作库教学、动作合集与萌宠 IP 等内容方向的表现分析，并将选题、生成、质检、发布和复盘整理成可复用的内容策略工作流。
 
+<p align="center">
+  <img src="./assets/fitness-cards.png" alt="动作库教学内容卡片" width="62%" />
+  <img src="./assets/powerclaw-cat.jpg" alt="萌宠健身内容素材" width="31%" />
+</p>
+
 → [查看 AI 内容工作流](https://github.com/Xiesy0229/daily-fitness-illustration-workflow)&nbsp;&nbsp;·&nbsp;&nbsp;[打开完整复盘](https://github.com/Xiesy0229/daily-fitness-illustration-workflow/blob/main/case-studies/README.md)
+
+<details>
+<summary><strong>更多项目 / More work</strong></summary>
 
 ### 05｜让每一次审核，都有清楚的下一步
 
@@ -82,21 +96,23 @@
 
 → [打开 Triple 项目主页](https://xiesy0229.github.io/triple-product-system/)&nbsp;&nbsp;·&nbsp;&nbsp;[查看代码与交互原型](https://github.com/Xiesy0229/triple-product-system)
 
-## 我的工作方式
+</details>
+
+## My Product Practice / 我的工作方式
 
 ```text
 观察真实问题  →  拆解任务与约束  →  设计可用流程  →  用评测和数据复盘
      用户              产品                体验                证据
 ```
 
-我习惯从用户、业务和模型三个视角同时看问题：先把模糊需求变成可以讨论的任务，再把任务落成流程、原型、规则和可验证的结果。
+我习惯从用户、业务和模型三个视角同时看问题：把模糊需求变成可以讨论的任务，再把任务落成流程、原型、规则和可验证的结果。
 
-## 工具箱
+## Toolbox / 工具箱
 
 `PRD` `User Flow` `Figma` `AI 评测` `Prompt 设计` `RAG` `A/B Test` `数据看板`  
 `ChatGPT` `Claude Code` `Cursor` `Kling` `Seedance`
 
-## 教育与经历
+## Education & Experience / 教育与经历
 
 - **华中科技大学｜设计学硕士在读**　2025.09—2028.06
 - **华中科技大学｜环境设计学士**　2021.09—2025.12
