@@ -64,7 +64,9 @@
 
 ### 04｜把内容策略，变成可以迭代的工作流
 
-围绕海外健身 App 获客，整理 **356 项健身动作**，分析 **200+ 条 TikTok / YouTube 内容**，建立 3 类 AIGC 内容场景与日更生成工作流；测试期单条视频平均播放量 **5,000+**。
+围绕海外健身 App 获客，整理 **356 项健身动作**，分析 **200+ 条 TikTok / YouTube 内容**，建立 3 类 AIGC 内容场景与日更生成工作流；沉淀内容分类、平台观察、A/B Test 与复盘方法。
+
+阶段成果：形成动作库教学、动作合集与萌宠 IP 等内容方向的表现分析，并将选题、生成、质检、发布和复盘整理成可复用的内容策略工作流。
 
 → [查看 AI 内容工作流](https://github.com/Xiesy0229/daily-fitness-illustration-workflow)&nbsp;&nbsp;·&nbsp;&nbsp;[打开完整复盘](https://github.com/Xiesy0229/daily-fitness-illustration-workflow/blob/main/case-studies/README.md)
 
