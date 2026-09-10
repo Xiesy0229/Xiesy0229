@@ -66,7 +66,6 @@
 阶段成果：形成动作库教学、动作合集与萌宠 IP 等内容方向的表现分析，并将选题、生成、质检、发布和复盘整理成可复用的内容策略工作流。
 
 <p align="center">
-  <img src="./assets/fitness-cards.png" alt="动作库教学内容卡片" width="62%" />
   <img src="./assets/powerclaw-cat.jpg" alt="萌宠健身内容素材" width="31%" />
 </p>
 
