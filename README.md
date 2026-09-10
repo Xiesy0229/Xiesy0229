@@ -8,7 +8,7 @@
 
 我从设计出发，做多模态 AI 产品、用户体验与内容策略。
 
-<a href="https://luna-xie-portfolio.ccxxii001212.chatgpt.site/">↗ 打开我的个人作品集</a>
+<a href="https://luna.du4s.com/">↗ 打开我的个人作品集</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://artioo.cn/">Artioo 多模态平台</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <a href="https://luna-xie-portfolio.ccxxii001212.chatgpt.site/"><img src="./portfolio-button.svg" alt="打开我的个人作品集" width="280" /></a>
+  <a href="https://luna.du4s.com/"><img src="./portfolio-button.svg" alt="打开我的个人作品集" width="280" /></a>
 </p>
 
 ---
@@ -48,13 +48,13 @@
 
 参与 **Artioo 企业级多模态 AI 创意生产平台**的能力研究与产品评测，围绕人物、空间、视觉风格和专业运镜等任务，对比 Seedance、Kling、Runway、Veo 四款模型；设计 8 类任务、重复生成 3 次，累计复盘 **96 条视频**，建立 6 项评测指标，归纳 Badcase 并沉淀模型选择与工作流优化建议。
 
-→ [访问 Artioo](https://artioo.cn/)&nbsp;&nbsp;·&nbsp;&nbsp;[观看视频展示](https://mp.weixin.qq.com/s/6WoXMmKvK2pIP0ELTINeWw)&nbsp;&nbsp;·&nbsp;&nbsp;[查看个人作品集](https://luna-xie-portfolio.ccxxii001212.chatgpt.site/#work)
+→ [访问 Artioo](https://artioo.cn/)&nbsp;&nbsp;·&nbsp;&nbsp;[观看视频展示](https://mp.weixin.qq.com/s/6WoXMmKvK2pIP0ELTINeWw)&nbsp;&nbsp;·&nbsp;&nbsp;[查看个人作品集](https://luna.du4s.com/#work)
 
 ### 02｜让 AI 生图，成为顺手的创作工具
 
 企业级 AI 营销物料创作工作台。围绕“预设创作 / 自由创作 / 项目管理”重新梳理入口和路径，把生图能力放进真实的设计工作流；同时通过 Prompt 约束和质检规则控制文字、价格、Logo 与版式风险。
 
-→ [体验 D-Design AI 生图工作台](https://kv.ccxixi.top/)&nbsp;&nbsp;·&nbsp;&nbsp;[阅读完整案例](https://luna-xie-portfolio.ccxxii001212.chatgpt.site/#d-design)
+→ [体验 D-Design AI 生图工作台](https://kv.ccxixi.top/)&nbsp;&nbsp;·&nbsp;&nbsp;[阅读完整案例](https://luna.du4s.com/#d-design)
 
 ### 03｜让答案有依据，也知道何时停下来
 
@@ -126,6 +126,6 @@
 
 如果你也在思考，如何让复杂的 AI 变得更清楚、更好用，欢迎来聊聊。
 
-<a href="https://luna-xie-portfolio.ccxxii001212.chatgpt.site/">打开我的个人作品集 ↗</a>
+<a href="https://luna.du4s.com/">打开我的个人作品集 ↗</a>
 
 </div>
