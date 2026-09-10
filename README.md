@@ -65,10 +65,6 @@
 
 阶段成果：形成动作库教学、动作合集与萌宠 IP 等内容方向的表现分析，并将选题、生成、质检、发布和复盘整理成可复用的内容策略工作流。
 
-<p align="center">
-  <img src="./assets/powerclaw-cat.jpg" alt="萌宠健身内容素材" width="31%" />
-</p>
-
 → [查看 AI 内容工作流](https://github.com/Xiesy0229/daily-fitness-illustration-workflow)&nbsp;&nbsp;·&nbsp;&nbsp;[打开完整复盘](https://github.com/Xiesy0229/daily-fitness-illustration-workflow/blob/main/case-studies/README.md)
 
 <details>
