@@ -24,3 +24,7 @@
 | 周日 | 周复盘 |
 
 真正有价值的连续贡献，应当让后来的人能从记录中获得方法、模板、数据或案例。
+
+## 专题研究
+
+- [JoyAI-VL-Interaction：模型评测、交互体验与产品 Demo 研究](./2026-09-18-joyai-vl-interaction-research.md)
