@@ -1,0 +1,80 @@
+name: Daily AI Product Practice
+
+on:
+  schedule:
+    # 07:35 Asia/Shanghai (UTC+8). GitHub cron uses UTC.
+    - cron: "35 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  create-daily-practice:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create today's 15-minute practice
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const today = new Intl.DateTimeFormat("en-CA", {
+              timeZone: "Asia/Shanghai",
+              year: "numeric",
+              month: "2-digit",
+              day: "2-digit"
+            }).format(new Date());
+
+            const weekday = new Intl.DateTimeFormat("en-US", {
+              timeZone: "Asia/Shanghai",
+              weekday: "long"
+            }).format(new Date());
+
+            const practices = {
+              Monday: ["竞品拆解", "选择一个 AI 产品，记录目标用户、核心任务、关键流程与一个可改进点。"],
+              Tuesday: ["模型评测", "设计一个小型测试用例，对比两个模型的结果，并记录评价标准与 Badcase。"],
+              Wednesday: ["RAG / Prompt", "优化一个 Prompt、检索问题或拒答边界，记录修改前后效果。"],
+              Thursday: ["PRD / 用户体验", "把一个模糊需求写成用户故事、验收标准或简短流程图。"],
+              Friday: ["数据与增长", "拆解一个转化漏斗或内容案例，提出一个可验证的实验假设。"],
+              Saturday: ["作品集打磨", "优化一个项目说明、截图、标题或结果数据，让价值表达更清楚。"],
+              Sunday: ["周复盘", "总结本周最重要的发现、一个未解决问题，以及下周要验证的假设。"]
+            };
+
+            const [theme, task] = practices[weekday];
+            const title = `[Daily Practice] ${today} · ${theme}`;
+            const existing = await github.paginate(github.rest.issues.listForRepo, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "all",
+              per_page: 100
+            });
+
+            if (existing.some(issue => issue.title === title)) {
+              core.info("Today's practice already exists.");
+              return;
+            }
+
+            const body = [
+              `## 今日主题：${theme}`,
+              "",
+              task,
+              "",
+              "### 15 分钟记录",
+              "",
+              "- **我观察到：**",
+              "- **证据 / 示例：**",
+              "- **我的判断：**",
+              "- **下一步：**",
+              "",
+              "完成后，将有价值的结论整理到 `daily-learning/`，形成可以长期复用和分享的公开知识库。",
+              "",
+              "_这项自动任务负责提醒；真正的 Contribution 来自你的分析、提交、Issue 或 PR。_"
+            ].join("\n");
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body,
+              assignees: [context.repo.owner]
+            });
