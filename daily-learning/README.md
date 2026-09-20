@@ -28,3 +28,4 @@
 ## 专题研究
 
 - [JoyAI-VL-Interaction：模型评测、交互体验与产品 Demo 研究](./2026-09-18-joyai-vl-interaction-research.md)
+- [从 Agent 评测到 JoyAI 实时视频交互评测](./2026-09-20-agent-evaluation-and-joyai.md)
