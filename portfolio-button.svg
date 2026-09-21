@@ -1,13 +1,8 @@
-<svg width="320" height="58" viewBox="0 0 320 58" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="290" height="58" viewBox="0 0 290 58" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">打开我的个人作品集</title>
-  <desc id="desc">一个带有花朵和泡泡表情的浅蓝色圆角链接按钮，文字为打开我的个人作品集</desc>
-  <rect x="1" y="1" width="318" height="56" rx="15" fill="#78A7F5" stroke="#6596E8" stroke-width="2"/>
+  <desc id="desc">一个带有花朵和箭头的浅蓝色圆角链接按钮，文字为打开我的个人作品集</desc>
+  <rect x="1" y="1" width="288" height="56" rx="15" fill="#78A7F5" stroke="#6596E8" stroke-width="2"/>
   <text x="22" y="38" fill="#172638" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="20">🌸</text>
   <text x="61" y="37" fill="#172638" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">打开我的个人作品集</text>
-  <g aria-label="泡泡">
-    <circle cx="258" cy="30" r="7" fill="#EAF5FF" stroke="#172638" stroke-width="1.5"/>
-    <circle cx="269" cy="39" r="5" fill="#EAF5FF" stroke="#172638" stroke-width="1.5"/>
-    <circle cx="253" cy="24" r="2" fill="#FFFFFF"/>
-  </g>
-  <text x="286" y="38" fill="#172638" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">↗</text>
+  <text x="258" y="38" fill="#172638" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">↗</text>
 </svg>

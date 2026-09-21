@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <a href="https://luna.du4s.com/"><img src="./portfolio-button.svg" alt="打开我的个人作品集" width="280" /></a>
+  <a href="https://luna.du4s.com/"><img src="./portfolio-button.svg" alt="打开我的个人作品集" width="260" /></a>
 </p>
 
 ---
