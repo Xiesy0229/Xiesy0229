@@ -8,8 +8,6 @@
 
 我从设计出发，做多模态 AI 产品、用户体验与内容策略。
 
-<a href="https://luna.du4s.com/">↗ 打开我的个人作品集</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://artioo.cn/">Artioo 多模态平台</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://mp.weixin.qq.com/s/6WoXMmKvK2pIP0ELTINeWw">Artioo 视频展示</a>
