@@ -41,7 +41,7 @@
 
 ### 01｜让 AI 视频，从能生成到能制作
 
-参与 **Artioo 企业级多模态 AI 创意生产平台**的能力研究与产品评测，围绕人物、空间、视觉风格和专业运镜等任务，对比 Seedance、Kling、Runway、Veo 四款模型；设计 8 类任务、重复生成 3 次，累计复盘 **96 条视**，建立 6 项评测指标，归纳 Badcase 并沉淀模型选择与工作流优化建议。
+参与 **Artioo 企业级多模态 AI 创意生产平台**的能力研究与产品评测，围绕人物、空间、视觉风格和专业运镜等任务，对比 Seedance、Kling、Runway、Veo 四款模型；设计 8 类任务、重复生成 3 次，累计复盘 **96 条视频**，建立 6 项评测指标，归纳 Badcase 并沉淀模型选择与工作流优化建议。
 
 → [访问 Artioo](https://artioo.cn/)&nbsp;&nbsp;·&nbsp;&nbsp;[观看视频展示](https://mp.weixin.qq.com/s/6WoXMmKvK2pIP0ELTINeWw)&nbsp;&nbsp;·&nbsp;&nbsp;[查看个人作品集](https://luna.du4s.com/#work)
 
