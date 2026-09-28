@@ -39,9 +39,15 @@
 
 ## Just for Fun / 兴趣爱好
 
-工作之外，我也喜欢做一些好玩的小东西，比如把喜欢的照片做成桌宠，搭配手绘风格，再给它加上点击回应、喂零食这样的小互动。对我来说，把一个“好像很可爱”的念头慢慢做成能放在桌面上玩的东西，本身就很有意思。
+工作之外，我喜欢做一些好玩的小东西，把喜欢的照片、角色和交互想法变成能放在桌面上玩的作品。
 
-最近做了 **[口袋搭子 · Pocket Companion](https://github.com/Xiesy0229/pocket-companion)**：一个支持 Windows 和 macOS 的小桌宠，可以拖动、喂饼干，还会用日语回应。
+最近做了 **[口袋搭子 · Pocket Companion](https://github.com/Xiesy0229/pocket-companion)**：主角是 NCT WISH 的日本成员 **Sakuya（サクヤ / 咲哉）**。因为常看到大家觉得他像大嘴吉，我就把他们做成了一对桌面小搭子，可以点一下看他用日语文字回应，也可以拖小饼干喂大嘴吉。
+
+从照片大头贴、Y2K 相框和像素风一路试到蜡笔描边，我负责创意、视觉选择与体验反馈，借助 AI 和 Codex 完成素材迭代、程序实现与发布。目前支持 **Windows 和 macOS（Apple Silicon / Intel）**。
+
+→ [看制作过程与设计迭代](https://github.com/Xiesy0229/pocket-companion#从一个念头改到现在的样子)&nbsp;&nbsp;·&nbsp;&nbsp;[下载桌宠](https://github.com/Xiesy0229/pocket-companion/releases/tag/v0.2.0)
+
+也顺便安利一下我的小爱豆 💚 [NCT 日本官方网站](https://nct-jp.net/)&nbsp;&nbsp;·&nbsp;&nbsp;[SAKUYA 官方 Weverse](https://weverse.io/nctwish/profile/56a51c1fec3deae8d2de1697c66db704?hl=ja)
 
 ## Selected Projects / 代表项目
 
