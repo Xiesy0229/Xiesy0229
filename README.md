@@ -129,6 +129,6 @@
 
 如果你也在思考，如何让复杂的 AI 变得更清楚、更好用，欢迎来聊聊。
 
-<a href="https://luna.du4s.com/">打开我的个人作品集 ↗</a>
+<a href="https://luna.du4s.com/">浏览完整个人作品集 ↗</a>
 
 </div>
