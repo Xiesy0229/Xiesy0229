@@ -71,7 +71,7 @@
 
 ### 04｜把内容策略，变成可以迭代的工作流
 
-围绕海外健身 App，整理 **356 项健身动作**，分析 **200+ 条 TikTok / YouTube 内容**，建立 3 类 AIGC 内容场景与日更生成工作流；沉淀内容分类、平台观察、A/B Test 与复盘方法。
+围绕海外健身 App，整理 **356 项健身动作**，分析 **200+ 条 TikTok / YouTube 内容**，建立 3 类 AIGC 内容场景与日更生成工作流；沉淀内容分类、平台观察、A/B 测试与复盘方法。
 
 阶段成果：形成动作库教学、动作合集与萌宠 IP 等内容方向的表现分析，并将选题、生成、质检、发布和复盘整理成可复用的内容策略工作流。
 
@@ -105,7 +105,7 @@
 
 ## Toolbox / 工具箱
 
-`PRD` `User Flow` `Figma` `AI 评测` `Prompt 设计` `RAG` `A/B Test` `数据看板`  
+`PRD` `User Flow` `Figma` `AI 评测` `Prompt 设计` `RAG` `A/B 测试` `数据看板`  
 `ChatGPT` `Claude Code` `Cursor` `Kling` `Seedance`
 
 ## Education & Experience / 教育与经历
