@@ -57,19 +57,25 @@
 
 → [访问 Artioo](https://artioo.cn/)&nbsp;&nbsp;·&nbsp;&nbsp;[观看视频展示](https://mp.weixin.qq.com/s/6WoXMmKvK2pIP0ELTINeWw)&nbsp;&nbsp;·&nbsp;&nbsp;[查看个人作品集](https://luna.du4s.com/#work)
 
-### 02｜让 AI 生图，成为顺手的创作工具
+### 02｜让 R2V 评测，从凭感觉走向可复核
+
+围绕参考图生成视频（R2V），把题集构建与评测维度验证组合成一套实践工具：15 道双视频比较题支持逐题评分、维度反馈、结果汇总与 CSV 导出；配套 Eval Set Builder Skill 面向“文本 + 静态参考图”题集，协助整理来源、标签和考察依据，并预检时长可执行性、配置化覆盖配额及数据/素材结构。当前 Skill 聚焦题集准备与结构校验，不会自动调用视频模型或自动判定模型优劣；Arena 用于维度验证和人工评审反馈收集。
+
+→ [打开 R2V Arena 项目说明](https://xiesy0229.github.io/multimodal-agent-evaluation-handbook/practice/r2v-arena/)&nbsp;&nbsp;·&nbsp;&nbsp;[体验 15 题评测页面](https://xiesy0229.github.io/multimodal-agent-evaluation-handbook/practice/r2v_Arena_15%E9%A2%98_%E7%BB%B4%E5%BA%A6%E9%AA%8C%E8%AF%81_%E5%90%AB%E9%80%90%E9%A2%98%E5%8F%8D%E9%A6%88%E7%89%88.html)&nbsp;&nbsp;·&nbsp;&nbsp;[查看 Skill 与校验工具](https://github.com/Xiesy0229/multimodal-agent-evaluation-handbook/tree/main/skills/r2v-eval-set-builder)
+
+### 03｜让 AI 生图，成为顺手的创作工具
 
 企业级 AI 营销物料创作工作台。围绕“预设创作 / 自由创作 / 项目管理”重新梳理入口和路径，把生图能力放进真实的设计工作流；同时通过 Prompt 约束和质检规则控制文字、价格、Logo 与版式风险。
 
 → [体验 D-Design AI 生图工作台](https://kv.ccxixi.top/)&nbsp;&nbsp;·&nbsp;&nbsp;[阅读完整案例](https://luna.du4s.com/#d-design)
 
-### 03｜让答案有依据，也知道何时停下来
+### 04｜让答案有依据，也知道何时停下来
 
 参与滴滴 HR-RAG 智能助手设计，梳理政策入库、语义检索、混合检索、Rerank、答案生成与来源引用链路；参与父子分块、Prompt 约束、测评集，以及“资料不足时拒答 / 高风险问题转人工”的边界设计。
 
 → [打开 HR-RAG 项目主页](https://xiesy0229.github.io/hr-rag-assistant/)&nbsp;&nbsp;·&nbsp;&nbsp;[阅读 RAG 学习手册](https://xiesy0229.github.io/hr-rag-assistant/docs/rag-learning-handbook.html)&nbsp;&nbsp;·&nbsp;&nbsp;[查看合规审核工作流](https://github.com/Xiesy0229/hr-rag-assistant/blob/main/docs/compliance-review-workflow.md)
 
-### 04｜把内容策略，变成可以迭代的工作流
+### 05｜把内容策略，变成可以迭代的工作流
 
 围绕海外健身 App，整理 **356 项健身动作**，分析 **200+ 条 TikTok / YouTube 内容**，建立 3 类 AIGC 内容场景与日更生成工作流；沉淀内容分类、平台观察、A/B 测试与复盘方法。
 
@@ -80,13 +86,13 @@
 <details>
 <summary><strong>更多项目 / More work</strong></summary>
 
-### 05｜让每一次审核，都有清楚的下一步
+### 06｜让每一次审核，都有清楚的下一步
 
 围绕供应商“资料提交—资质审核—通过 / 驳回—重新提交”链路，完成需求分析、状态流转、规则预审、人工复核、PRD、交互原型与验收标准设计，并围绕履约质量参与供应商信用策略设计。
 
 → [查看 PRD 与原型作品集](https://github.com/Xiesy0229/prd-portfolio-public)
 
-### 06｜让一次训练，串成一套服务
+### 07｜让一次训练，串成一套服务
 
 **Triple 健身服务三端系统**：围绕会员小程序端、教练工作端和运营管理后台，梳理预约、签到核销、会员卡、训练成长、内容社区、商城交易与经营数据等模块，把一次训练服务拆成可协作的产品体系。
 
